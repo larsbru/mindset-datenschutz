@@ -5,9 +5,9 @@ permalink: /en/
 
 # Privacy Policy — Mindset (iOS app)
 
-*Last updated: August 2026 · This version is intended for publication as a public URL
+Last updated: August 2026 · This version is intended for publication as a public URL
 (App Store mandatory field). It is the English counterpart of the German version and says
-the same thing: [Deutsche Fassung / German version](https://applabs.bruckschen.eu/mindset/de/privacy).*
+the same thing: [Deutsche Fassung / German version](https://applabs.bruckschen.eu/mindset/de/privacy).
 
 ## Summary
 

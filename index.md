@@ -4,10 +4,10 @@ title: Datenschutzerklärung — Mindset
 
 # Datenschutzerklärung — Mindset (iOS-App)
 
-*Stand: August 2026 · Diese Fassung ist zur Veröffentlichung als öffentliche URL bestimmt
+Stand: August 2026 · Diese Fassung ist zur Veröffentlichung als öffentliche URL bestimmt
 (App-Store-Pflichtfeld) und deckungsgleich mit der In-App-Ansicht (Profil → Datenschutz)
 sowie mit der englischen Fassung:
-[English version](https://applabs.bruckschen.eu/mindset/en/privacy).*
+[English version](https://applabs.bruckschen.eu/mindset/en/privacy).
 
 ## Kurzfassung
 
