@@ -53,14 +53,28 @@ apply to the version published in the App Store.
 
 ## Your rights (GDPR)
 
-Right of access: the provider does not receive any of your data, so there is no data held about
-you that could be disclosed — your data is held by you alone.
-Right to data portability: a complete export is available in the app at any time
-(Profile → Export).
-Right to erasure: delete entries individually, or delete the app to remove local data; iCloud
-data is deleted via your iCloud settings or by switching the sync off.
+You have the following rights. Because the provider never receives your data, you exercise most
+of them directly in the app rather than by making a request to us.
+
+Right of access (Art. 15 GDPR): the provider holds no personal data about you that could be
+disclosed. You can see all of your data in the app at any time.
+Right to rectification (Art. 16 GDPR): every entry can be edited directly in the app.
+Right to erasure (Art. 17 GDPR): delete entries individually, or delete the app to remove local
+data; iCloud data is deleted via your iCloud settings or by switching the sync off.
+Right to restriction of processing (Art. 18 GDPR): you can switch iCloud sync off at any time,
+after which processing takes place exclusively on your device.
+Right to data portability (Art. 20 GDPR): a complete export in a machine-readable format is
+available in the app at any time (Profile → Export).
+Right to object (Art. 21 GDPR): there is no processing based on legitimate interests that could be
+objected to — no advertising, no profiling, no analytics. Optional features (iCloud sync,
+notifications, Siri) can be switched off in the app at any time.
+Right to lodge a complaint (Art. 77 GDPR): you may lodge a complaint with a data protection
+supervisory authority — either the one responsible for your place of residence or the authority
+responsible for the provider, the State Commissioner for Data Protection and Freedom of
+Information of North Rhine-Westphalia, Germany.
+
 Because no data is transmitted to the provider, requests for access, rectification or erasure
-addressed to the provider have no data to act upon.
+addressed to the provider have no data to act upon — your data is held by you alone.
 
 ## Controller
 

@@ -56,13 +56,27 @@ Entwicklungssystemen gelöscht. Für die im App Store veröffentlichte Version g
 
 ## Deine Rechte (DSGVO)
 
-Auskunft: Der Anbieter erhält keine deiner Daten, hält also keine personenbezogenen Daten über
-dich vor, über die Auskunft erteilt werden könnte — deine Daten hast ausschließlich du.
-Datenübertragbarkeit: vollständiger Export jederzeit in der App (Profil → Exportieren).
-Löschung: Einträge einzeln oder durch Löschen der App; iCloud-Daten über die
+Dir stehen die folgenden Rechte zu. Weil der Anbieter keine deiner Daten erhält, übst du die
+meisten davon unmittelbar in der App aus statt über eine Anfrage bei uns.
+
+Auskunft (Art. 15 DSGVO): Der Anbieter hält keine personenbezogenen Daten über dich vor, über die
+Auskunft erteilt werden könnte. Deine vollständigen Daten siehst du jederzeit in der App.
+Berichtigung (Art. 16 DSGVO): Jeder Eintrag ist in der App direkt bearbeitbar.
+Löschung (Art. 17 DSGVO): Einträge einzeln oder durch Löschen der App; iCloud-Daten über die
 iCloud-Einstellungen oder durch Abschalten des Syncs.
+Einschränkung der Verarbeitung (Art. 18 DSGVO): Du kannst den iCloud-Sync jederzeit abschalten;
+die Verarbeitung findet dann ausschließlich auf deinem Gerät statt.
+Datenübertragbarkeit (Art. 20 DSGVO): vollständiger Export jederzeit in der App
+(Profil → Exportieren), in einem maschinenlesbaren Format.
+Widerspruch (Art. 21 DSGVO): Es findet keine Verarbeitung auf Grundlage berechtigter Interessen
+statt, der widersprochen werden könnte — es gibt weder Werbung noch Profilbildung noch Analyse.
+Optionale Funktionen (iCloud-Sync, Mitteilungen, Siri) schaltest du in der App jederzeit ab.
+Beschwerde (Art. 77 DSGVO): Unabhängig davon kannst du dich bei einer Datenschutz-Aufsichtsbehörde
+beschweren — bei der für deinen Wohnsitz zuständigen oder bei der für den Anbieter zuständigen
+Landesbeauftragten für Datenschutz und Informationsfreiheit Nordrhein-Westfalen.
+
 Da keine Daten an den Anbieter übermittelt werden, laufen Auskunfts-, Berichtigungs- und
-Löschersuchen an den Anbieter mangels vorhandener Daten ins Leere.
+Löschersuchen an den Anbieter mangels vorhandener Daten ins Leere — deine Daten hast ausschließlich du.
 
 ## Verantwortlicher
 
